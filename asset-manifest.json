@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.4c8c17b8.chunk.css",
-    "main.js": "./static/js/main.744d24f6.chunk.js",
-    "main.js.map": "./static/js/main.744d24f6.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.b51b247a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.b51b247a.js.map",
-    "static/js/2.1d89871a.chunk.js": "./static/js/2.1d89871a.chunk.js",
-    "static/js/2.1d89871a.chunk.js.map": "./static/js/2.1d89871a.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.f217520e9a7c5c43549416669efde7cd.js": "./precache-manifest.f217520e9a7c5c43549416669efde7cd.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.4c8c17b8.chunk.css.map": "./static/css/main.4c8c17b8.chunk.css.map",
-    "static/js/2.1d89871a.chunk.js.LICENSE.txt": "./static/js/2.1d89871a.chunk.js.LICENSE.txt",
-    "static/media/svg-2.svg": "./static/media/svg-2.a9720333.svg"
+    "main.css": "/react_people-table-advanced/static/css/main.4c8c17b8.chunk.css",
+    "main.js": "/react_people-table-advanced/static/js/main.744d24f6.chunk.js",
+    "main.js.map": "/react_people-table-advanced/static/js/main.744d24f6.chunk.js.map",
+    "runtime-main.js": "/react_people-table-advanced/static/js/runtime-main.072d365a.js",
+    "runtime-main.js.map": "/react_people-table-advanced/static/js/runtime-main.072d365a.js.map",
+    "static/js/2.1d89871a.chunk.js": "/react_people-table-advanced/static/js/2.1d89871a.chunk.js",
+    "static/js/2.1d89871a.chunk.js.map": "/react_people-table-advanced/static/js/2.1d89871a.chunk.js.map",
+    "index.html": "/react_people-table-advanced/index.html",
+    "precache-manifest.2d345d016ea5cacb71e154bd9c790736.js": "/react_people-table-advanced/precache-manifest.2d345d016ea5cacb71e154bd9c790736.js",
+    "service-worker.js": "/react_people-table-advanced/service-worker.js",
+    "static/css/main.4c8c17b8.chunk.css.map": "/react_people-table-advanced/static/css/main.4c8c17b8.chunk.css.map",
+    "static/js/2.1d89871a.chunk.js.LICENSE.txt": "/react_people-table-advanced/static/js/2.1d89871a.chunk.js.LICENSE.txt",
+    "static/media/svg-2.svg": "/react_people-table-advanced/static/media/svg-2.a9720333.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b51b247a.js",
+    "static/js/runtime-main.072d365a.js",
     "static/js/2.1d89871a.chunk.js",
     "static/css/main.4c8c17b8.chunk.css",
     "static/js/main.744d24f6.chunk.js"
